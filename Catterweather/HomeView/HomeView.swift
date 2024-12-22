@@ -14,13 +14,7 @@ struct HomeView: View {
 extension HomeView {
   @ViewBuilder var body: some View {
     if isSearching {
-      List(model.possibleLocations) { location in
-        VStack {
-          Text(location.name)
-          Text(location.region)
-          Text(location.country)
-        }
-      }
+      List(model.possibleLocations, rowContent: Location.SearchResult.View.init)
     } else {
       NoCityView()
     }
