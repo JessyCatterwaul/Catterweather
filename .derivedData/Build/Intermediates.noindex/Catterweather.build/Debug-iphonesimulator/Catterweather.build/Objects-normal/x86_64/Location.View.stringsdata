@@ -1,0 +1,16 @@
+{
+  "source": "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/HomeView/Subviews/Location.View.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@°",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 72
+        }
+      }
+    ]
+  },
+  "version": 1
+}

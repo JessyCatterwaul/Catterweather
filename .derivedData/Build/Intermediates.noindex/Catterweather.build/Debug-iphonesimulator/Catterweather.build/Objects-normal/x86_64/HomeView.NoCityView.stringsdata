@@ -1,0 +1,24 @@
+{
+  "source": "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/HomeView/Subviews/HomeView.NoCityView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "No City Selected",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Please Search For A City",
+        "location": {
+          "startingColumn": 12,
+          "startingLine": 13
+        }
+      }
+    ]
+  },
+  "version": 1
+}

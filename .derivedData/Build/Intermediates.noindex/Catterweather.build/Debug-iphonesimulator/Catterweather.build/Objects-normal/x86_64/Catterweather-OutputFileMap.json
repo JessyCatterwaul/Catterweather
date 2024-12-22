@@ -1,0 +1,148 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Catterweather-master.dia",
+    "emit-module-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Catterweather-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Catterweather-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Catterweather-master.swiftdeps"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/App.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/App.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/App.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/App.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/App.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/App.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/App.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/App.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/App~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/HomeView/HomeView.Model.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Model.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Model.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Model.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Model.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Model.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Model.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Model.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Model~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/HomeView/HomeView.Stack.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Stack.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Stack.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Stack.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Stack.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Stack.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Stack.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Stack.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.Stack~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/HomeView/HomeView.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/HomeView/Subviews/HomeView.NoCityView.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.NoCityView.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.NoCityView.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.NoCityView.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.NoCityView.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.NoCityView.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.NoCityView.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.NoCityView.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/HomeView.NoCityView~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/HomeView/Subviews/Location.SearchResult.View.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.View.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.View.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.View.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.View.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.View.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.View.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.View.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.View~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/HomeView/Subviews/Location.View.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.View.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.View.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.View.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.View.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.View.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.View.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.View.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.View~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Models/Location/Location.PersistentModel.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.PersistentModel.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.PersistentModel.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.PersistentModel.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.PersistentModel.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.PersistentModel.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.PersistentModel.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.PersistentModel.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.PersistentModel~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Models/Location/Location.SearchResult.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.SearchResult~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Models/Location/Location.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Location~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Models/Weather.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Weather.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Weather.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Weather.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Weather.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Weather.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Weather.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Weather.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Weather~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Poppins/Text.poppins.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Text.poppins.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Text.poppins.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Text.poppins.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Text.poppins.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Text.poppins.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Text.poppins.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Text.poppins.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/Text.poppins~partial.swiftmodule"
+  },
+  "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/WeatherAPI.swift" : {
+    "const-values" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/WeatherAPI.swiftconstvalues",
+    "dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/WeatherAPI.d",
+    "diagnostics" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/WeatherAPI.dia",
+    "index-unit-output-path" : "/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/WeatherAPI.o",
+    "llvm-bc" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/WeatherAPI.bc",
+    "object" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/WeatherAPI.o",
+    "swift-dependencies" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/WeatherAPI.swiftdeps",
+    "swiftmodule" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/Catterweather.build/Debug-iphonesimulator/Catterweather.build/Objects-normal/x86_64/WeatherAPI~partial.swiftmodule"
+  }
+}

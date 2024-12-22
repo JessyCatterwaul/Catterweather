@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a9a955d40159e32e6333198c13c63a6aececc5559f8d8a4926a5ca0b8202bfa2"
+    }
+  ],
+  "containerPath" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "docbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Products",
+      "derivedDataPath" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData",
+      "indexDataStoreFolderPath" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "docbuild",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/.derivedData/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

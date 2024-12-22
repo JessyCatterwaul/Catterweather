@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameCardBackground</string>
+			<key>relativePath</key>
+			<string>./Colors/Card Background.colorset</string>
+			<key>swiftSymbol</key>
+			<string>cardBackground</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNamePrimaryText</string>
+			<key>relativePath</key>
+			<string>./Colors/Primary Text.colorset</string>
+			<key>swiftSymbol</key>
+			<string>primaryText</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameSecondaryText</string>
+			<key>relativePath</key>
+			<string>./Colors/Secondary Text.colorset</string>
+			<key>swiftSymbol</key>
+			<string>secondaryText</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jessy/Library/CloudStorage/Dropbox/Jobs/nooro/Catterweather/Catterweather/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameTertiaryText</string>
+			<key>relativePath</key>
+			<string>./Colors/Tertiary Text.colorset</string>
+			<key>swiftSymbol</key>
+			<string>tertiaryText</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array/>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
