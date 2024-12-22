@@ -22,10 +22,7 @@ extension HomeView {
         }
       }
     } else {
-      VStack {
-        Text("No City Selected")
-        Text("Please search for a City")
-      }
+      NoCityView()
     }
   }
 }
