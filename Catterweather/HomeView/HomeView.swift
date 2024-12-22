@@ -14,9 +14,20 @@ struct HomeView: View {
 extension HomeView {
   @ViewBuilder var body: some View {
     if isSearching {
-      List(model.possibleLocations, rowContent: Location.SearchResult.View.init)
+      List(model.possibleLocations) { possibleLocation in
+        Location.SearchResult.View(
+          searchResult: possibleLocation,
+          selectedLocation: $model.location
+        )
+        .listRowSeparator(.hidden)
+      }
+      .listStyle(.plain)
+    } else if let location = model.location {
+      Location.View(location: location)
+        .transition(.blurReplace)
     } else {
       NoCityView()
+        .transition(.blurReplace)
     }
   }
 }

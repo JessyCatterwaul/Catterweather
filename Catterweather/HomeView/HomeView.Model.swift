@@ -14,6 +14,13 @@ extension HomeView {
           }
         }
     }
+    
+    /// Thew user's chosen location.
+    var location: Location? {
+      didSet {
+
+      }
+    }
 
     var locationSearchText = "" {
       didSet { locationSearchTextPublisher.send(locationSearchText) }
