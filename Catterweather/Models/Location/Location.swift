@@ -25,6 +25,10 @@ extension Location {
     self.init(name: searchResult.name, id: searchResult.id)
   }
 
+  convenience init(_ savedLocation: PersistentModel) {
+    self.init(name: savedLocation.name, id: savedLocation.id)
+  }
+
   func updateWeather() async throws {
     currentWeather = try await WeatherAPI.request(method: "current", query: "id:\(id)")
   }

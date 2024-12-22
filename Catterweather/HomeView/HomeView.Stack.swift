@@ -8,7 +8,13 @@ extension HomeView {
   ///
   /// This view serves both purposes.
   struct Stack: View {
-    @State private var model = HomeView.Model()
+    @State private var model: Model
+
+    /// - Parameter storeLocationsToDrive: Setting this to `false` can be useful for previewing.
+    /// - Throws: If SwiftData cannot create a model container—which should never happen.
+    init(storeLocationsToDrive: Bool = true) throws {
+      model = try Model(storeLocationsToDrive: storeLocationsToDrive)
+    }
   }
 }
 
@@ -16,12 +22,13 @@ extension HomeView {
 extension HomeView.Stack {
   var body: some View {
     NavigationStack {
-      HomeView(model: $model)
+      HomeView()
+        .environment(model)
         .searchable(text: $model.locationSearchText, prompt: "Search Location")
     }
   }
 }
 
 #Preview {
-  HomeView.Stack()
+  try? HomeView.Stack(storeLocationsToDrive: false)
 }

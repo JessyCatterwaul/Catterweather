@@ -2,22 +2,15 @@ import SwiftUI
 
 extension Location.SearchResult {
   struct View: SwiftUI.View {
-    init(
-      searchResult: Location.SearchResult,
-      selectedLocation: Binding<Location?>
-    ) {
+    init(searchResult: Location.SearchResult) {
       self.searchResult = searchResult
-      _selectedLocation = selectedLocation
     }
 
     // MARK: - private
 
     private let searchResult: Location.SearchResult
     @Environment(\.dismissSearch) private var dismissSearch
-
-    /// This view does not need to `get` the selected location,
-    /// but it does need to set it.
-    @Binding private var selectedLocation: Location?
+    @Environment(HomeView.Model.self) private var model
   }
 }
 
@@ -26,7 +19,7 @@ extension Location.SearchResult.View {
   var body: some View {
     Button {
       dismissSearch()
-      selectedLocation = .init(searchResult)
+      model.updateLocation(.init(searchResult))
     } label: {
       HStack {
         VStack(alignment: .leading) {
@@ -57,10 +50,10 @@ extension Location.SearchResult.View {
         name: "Mumbai",
         region: "Maharashtra",
         country: "India"
-      ),
-      selectedLocation: .constant(nil)
+      )
     )
     .listRowSeparator(.hidden)
   }
   .listStyle(.plain)
+  .environment(try! HomeView.Model(storeLocationsToDrive: false))
 }
