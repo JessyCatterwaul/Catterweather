@@ -33,7 +33,6 @@ extension Weather: Decodable {
 
     let container = try decoder.container(keyedBy: CodingKey.self)
       .nestedContainer(keyedBy: CodingKey.self, forKey: .current)
-
     
     /// Decode `Double`s and round them to `Int`s.
     func decode(key: CodingKey) throws -> Int {
