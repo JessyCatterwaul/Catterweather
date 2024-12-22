@@ -21,9 +21,25 @@
 		492E37C12D13E01600CD9563 /* CatterweatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatterweatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		0A4C8E4C2D1669A70038D9C4 /* Exceptions for "Catterweather" folder in "Catterweather" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 492E37AE2D13E01400CD9563 /* Catterweather */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		492E37B12D13E01400CD9563 /* Catterweather */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				0A4C8E4C2D1669A70038D9C4 /* Exceptions for "Catterweather" folder in "Catterweather" target */,
+			);
+			explicitFolders = (
+				Poppins,
+			);
 			path = Catterweather;
 			sourceTree = "<group>";
 		};
@@ -330,6 +346,7 @@
 				DEVELOPMENT_TEAM = 4AQJ37X836;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Catterweather/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -359,6 +376,7 @@
 				DEVELOPMENT_TEAM = 4AQJ37X836;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Catterweather/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
