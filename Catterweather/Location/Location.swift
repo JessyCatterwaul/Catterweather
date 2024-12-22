@@ -8,6 +8,7 @@ import Observation
   init(name: String, id: Int, currentWeather: Weather? = nil) {
     self.name = name
     self.id = id
+    self.currentWeather = currentWeather
   }
 
   let name: String
@@ -22,5 +23,9 @@ import Observation
 extension Location {
   convenience init(_ searchResult: SearchResult) {
     self.init(name: searchResult.name, id: searchResult.id)
+  }
+
+  func updateWeather() async throws {
+    currentWeather = try await WeatherAPI.request(method: "current", query: "id:\(id)")
   }
 }

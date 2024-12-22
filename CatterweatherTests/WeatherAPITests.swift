@@ -14,4 +14,15 @@ struct WeatherAPITests {
   @Test func locationSearch() async throws {
     #expect(try await Location["a"].isEmpty == false)
   }
+
+  /// Search for a location by name, then retrieve its weather data.
+  @Test func weather() async throws {
+    let name = "Mumbai"
+    let location = try Location(
+      await #require(Location[name].first)
+    )
+    #expect(location.name == name)
+    try await location.updateWeather()
+    #expect(location.currentWeather != nil)
+  }
 }
